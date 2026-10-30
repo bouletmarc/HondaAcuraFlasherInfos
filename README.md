@@ -5,7 +5,7 @@ Informations, Parameters, Compatibilities, etc about the Honda/Acura Flasher and
 <summary>Keihin SH7058</summary>
   
 <details>
-<summary>37805-RWC-620</summary>
+<summary>-> 37805-RWC-620</summary>
 
 Parameters:
 
