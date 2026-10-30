@@ -6,9 +6,11 @@ Informations, Parameters, Compatibilities, etc about the Honda/Acura Flasher and
   
 <details>
 <summary>-> 37805-RWC-620 - Acura RDX 2010</summary>
+  
 ---
 Parameters: OK, TEST
 COMPATIBILITIES: YES, NO
 ---
+
 </details>
 </details>
